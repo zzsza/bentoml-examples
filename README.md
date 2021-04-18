@@ -1,2 +1,2 @@
-# bentoml-scripts
+# bentoml-Examples
 BentoML Example Scripts

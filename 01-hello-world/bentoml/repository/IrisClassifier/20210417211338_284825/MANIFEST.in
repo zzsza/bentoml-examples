@@ -1,0 +1,2 @@
+include IrisClassifier/bentoml.yml
+graft IrisClassifier/artifacts

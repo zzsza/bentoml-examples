@@ -1,0 +1,18 @@
+[2021-04-17 21:13:39,062] {bento_repository_api.py:200} INFO - BentoService bundle 'IrisClassifier:20210417211338_284825' saved to: /Users/byeon/Dropbox/workspace/bentoml-scripts/01-hello-world/bentoml/repository/IrisClassifier/20210417211338_284825
+[2021-04-17 21:18:45,311] {bento_repository_api.py:200} INFO - BentoService bundle 'IrisClassifier1:20210417211844_243709' saved to: /Users/byeon/Dropbox/workspace/bentoml-scripts/01-hello-world/bentoml/repository/IrisClassifier1/20210417211844_243709
+[2021-04-17 21:28:48,439] {yatai_service_impl.py:418} INFO - Getting latest version IrisClassifier:20210417211338_284825
+[2021-04-17 21:28:48,457] {__init__.py:101} INFO - Starting BentoML API proxy in development mode..
+[2021-04-17 21:28:48,461] {__init__.py:81} INFO - Starting BentoML API server in development mode..
+[2021-04-17 21:28:48,652] {marshal.py:189} INFO - Your system nofile limit is 4864, which means each instance of microbatch service is able to hold this number of connections at same time. You can increase the number of file descriptors for the server process, or launch more microbatch instances to accept more concurrent connection.
+[2021-04-17 21:30:43,074] {yatai_service_impl.py:418} INFO - Getting latest version IrisClassifier:20210417211338_284825
+[2021-04-17 21:30:43,096] {__init__.py:101} INFO - Starting BentoML API proxy in development mode..
+[2021-04-17 21:30:43,101] {__init__.py:81} INFO - Starting BentoML API server in development mode..
+[2021-04-17 21:30:43,296] {marshal.py:189} INFO - Your system nofile limit is 4864, which means each instance of microbatch service is able to hold this number of connections at same time. You can increase the number of file descriptors for the server process, or launch more microbatch instances to accept more concurrent connection.
+[2021-04-17 22:28:41,850] {yatai_service_impl.py:418} INFO - Getting latest version IrisClassifier:20210417211338_284825
+[2021-04-17 22:28:41,872] {__init__.py:101} INFO - Starting BentoML API proxy in development mode..
+[2021-04-17 22:28:41,877] {__init__.py:81} INFO - Starting BentoML API server in development mode..
+[2021-04-17 22:28:42,075] {marshal.py:189} INFO - Your system nofile limit is 4864, which means each instance of microbatch service is able to hold this number of connections at same time. You can increase the number of file descriptors for the server process, or launch more microbatch instances to accept more concurrent connection.
+[2021-04-17 22:56:23,416] {yatai_service_impl.py:418} INFO - Getting latest version IrisClassifier:20210417211338_284825
+[2021-04-17 22:56:23,443] {__init__.py:101} INFO - Starting BentoML API proxy in development mode..
+[2021-04-17 22:56:23,448] {__init__.py:81} INFO - Starting BentoML API server in development mode..
+[2021-04-17 22:56:23,624] {marshal.py:189} INFO - Your system nofile limit is 4864, which means each instance of microbatch service is able to hold this number of connections at same time. You can increase the number of file descriptors for the server process, or launch more microbatch instances to accept more concurrent connection.
